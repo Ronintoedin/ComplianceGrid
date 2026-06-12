@@ -1,2 +1,2 @@
-# CIS-Capstone-Project
+# ComplianceGrid
 A lightweight IT asset management and compliance tool designed around ease of use.
